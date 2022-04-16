@@ -1,11 +1,24 @@
 {
-  "name": "webdev",
-  "version": "1.0.0",
-  "scripts": {
-    "start": "server.js"
-  },
-  "license": "ISC",
   "dependencies": {
     "express": "^4.17.3"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "insultsandcomplements",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Magidov/InsultsAndComplements.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Magidov/InsultsAndComplements/issues"
+  },
+  "homepage": "https://github.com/Magidov/InsultsAndComplements#readme",
+  "description": ""
 }
