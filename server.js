@@ -62,6 +62,3 @@ const insults = [
   });
 
 app.use("/public", express.static("./public"));
-
-app.listen(3000);
-console.log("listening on http://localhost:3000");
